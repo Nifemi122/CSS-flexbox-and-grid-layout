@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(0, 0%, 95%);
+}
+main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-radius: 5px;
+}
+.first-content{
+    background-color: hsl(31, 77%, 52%);
+    padding: 2em;
+    height: 50%;
+}
+.first-content h1{
+    color: white;
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-size: bold;
+}
+.first-content p{
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.second-content{
+    background-color: hsl(184, 100%, 22%);
+    padding: 2em;
+    height: 50%;
+}
+.second-content h1{
+    color: white;
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-size: bold;
+}
+.second-content p{
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.third-content{
+    background-color: hsl(179, 100%, 13%);
+    padding: 2em;
+    height: 50%;
+}
+.third-content h1{
+    color: white;
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-size: bold;
+}
+.third-content p{
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
