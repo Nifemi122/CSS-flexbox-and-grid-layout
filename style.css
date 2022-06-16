@@ -6,6 +6,8 @@
 
 body{
     background-color: hsl(0, 0%, 95%);
+    font: 1em lexend deca;
+    font-weight: 400;
 }
 main{
     width: 50%;
